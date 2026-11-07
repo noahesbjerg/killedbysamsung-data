@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ar-doodle",
+    "name": "AR Doodle",
+    "category": "App",
+    "status": "announced",
+    "startDate": "2019-08",
+    "endDate": "2026-12-31",
+    "description": "AR Doodle pins drawings to faces and objects in the camera view. Samsung will end downloads and updates, though installed copies may keep working.",
+    "sources": [
+      {
+        "label": "Galaxy Store notice",
+        "url": "https://galaxystore.samsung.com/detail/com.samsung.android.ardrawing?cntyCd=USA"
+      },
+      {
+        "label": "Store notice reproduced by Android Authority",
+        "url": "https://www.androidauthority.com/samsung-ar-doodle-quick-measure-discontinue-3708203/"
+      },
+      {
+        "label": "Samsung Galaxy Note10 launch",
+        "url": "https://news.samsung.com/global/introducing-galaxy-note10-designed-to-bring-passions-to-life-with-next-level-power"
+      }
+    ]
+  },
+  {
+    "id": "chaton",
+    "name": "ChatON",
+    "category": "Service",
+    "status": "discontinued",
+    "startDate": "2011",
+    "endDate": "2015",
+    "description": "ChatON let people exchange messages across phone platforms. Samsung closed it in most markets on February 1, 2015, and announced a later US closure for the same quarter.",
+    "sources": [
+      {
+        "label": "Samsung statement via Engadget",
+        "url": "https://www.engadget.com/2014-12-18-samsung-chaton-shutdown.html"
+      },
+      {
+        "label": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/AEN20141219002300320"
+      }
+    ]
+  },
+  {
+    "id": "deco-pic",
+    "name": "DECO PIC",
+    "category": "App",
+    "status": "announced",
+    "endDate": "2027-12-31",
+    "description": "DECO PIC adds live stickers to photos and videos. New downloads end December 31, 2026, and previous users have another year to redownload the app and their stickers.",
+    "sources": [
+      {
+        "label": "Samsung Galaxy Store listing",
+        "url": "https://galaxystore.samsung.com/detail/com.samsung.android.livestickers?cntyCd=USA"
+      },
+      {
+        "label": "Galaxy Store notice reproduced by APKMirror",
+        "url": "https://www.apkmirror.com/apk/samsung-electronics-co-ltd/deco-pic/deco-pic-9-0-01-23-release/deco-pic-9-0-01-23-android-apk-download/"
+      },
+      {
+        "label": "Samsung Canada product guide",
+        "url": "https://www.samsung.com/ca/support/mobile-devices/galaxy-phone-deco-pic/"
+      }
+    ]
+  },
+  {
+    "id": "galaxy-note7",
+    "name": "Galaxy Note7",
+    "category": "Hardware",
+    "status": "discontinued",
+    "startDate": "2016-08-19",
+    "endDate": "2016-10-11",
+    "description": "Samsung recalled its pen-equipped phone after reports of battery fires. When replacement phones also showed defects, Samsung permanently stopped sales and production.",
+    "sources": [
+      {
+        "label": "Samsung production halt",
+        "url": "https://www.samsung.com/global/ir/reports-disclosures/public-disclosure-view.70693/"
+      },
+      {
+        "label": "Samsung recall timeline (PDF)",
+        "url": "https://www.samsung.com/global/sustainability/media/pdf/about-us-sustainability-report-and-policy-sustainability-report-2017-en.pdf"
+      }
+    ]
+  },
+  {
+    "id": "milk-music",
+    "name": "Milk Music",
+    "category": "Service",
+    "status": "discontinued",
+    "startDate": "2014",
+    "endDate": "2017-10-23",
+    "description": "Milk Music streamed radio stations on Galaxy devices. The US service closed on September 22, 2016, and the remaining markets followed by October 23, 2017.",
+    "sources": [
+      {
+        "label": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/AEN20170926009300320"
+      },
+      {
+        "label": "Samsung US shutdown notice",
+        "url": "https://news.samsung.com/us/official-statement-samsung-milk-music/"
+      },
+      {
+        "label": "Samsung Newsroom",
+        "url": "https://news.samsung.com/global/samsung-introduces-milk-music-the-next-big-thing-in-music"
+      }
+    ]
+  },
+  {
+    "id": "milk-video",
+    "name": "Milk Video",
+    "category": "Service",
+    "status": "discontinued",
+    "startDate": "2014-11-19",
+    "endDate": "2015-11-20",
+    "description": "Milk Video collected short online videos in a feed for Galaxy users in the United States. Samsung ended support a year after launch.",
+    "sources": [
+      {
+        "label": "Samsung's app notice via The Next Web",
+        "url": "https://thenextweb.com/news/samsung-milk-video-will-shut-down-november-20"
+      },
+      {
+        "label": "Samsung Newsroom",
+        "url": "https://news.samsung.com/global/samsung-introduces-milk-video-to-the-u-s-the-next-big-thing-in-video"
+      }
+    ]
+  },
+  {
+    "id": "playgalaxy-link",
+    "name": "PlayGalaxy Link",
+    "category": "Service",
+    "status": "discontinued",
+    "startDate": "2019",
+    "endDate": "2020-03-27",
+    "description": "PlayGalaxy Link let players stream games from their own PC to a Galaxy phone over Wi-Fi or mobile data. Samsung shut the service down during its beta.",
+    "sources": [
+      {
+        "label": "Galaxy Store shutdown confirmation (Korean)",
+        "url": "https://r1.community.samsung.com/t5/galaxy-store/%ED%94%8C%EB%A0%88%EC%9D%B4%EA%B0%A4%EB%9F%AD%EC%8B%9C%EB%A7%81%ED%81%AC-%EB%81%9D%EB%82%AC%EB%82%98%EC%9A%94/td-p/4981086"
+      },
+      {
+        "label": "Samsung beta announcement",
+        "url": "https://news.samsung.com/global/take-pc-power-in-your-pocket-and-stream-games-with-playgalaxy-link"
+      }
+    ]
+  },
+  {
+    "id": "quick-measure",
+    "name": "Quick Measure",
+    "category": "App",
+    "status": "announced",
+    "startDate": "2019-04",
+    "endDate": "2026-12-31",
+    "description": "Quick Measure uses a phone’s camera to estimate an object’s dimensions. Samsung will end downloads and updates, and says installed copies may keep working on compatible devices.",
+    "sources": [
+      {
+        "label": "Samsung Galaxy Store notice",
+        "url": "https://galaxystore.samsung.com/detail/com.samsung.android.ruler?cntyCd=USA"
+      },
+      {
+        "label": "Store notice reproduced by Android Authority",
+        "url": "https://www.androidauthority.com/samsung-ar-doodle-quick-measure-discontinue-3708203/"
+      },
+      {
+        "label": "Samsung Galaxy S10 5G launch",
+        "url": "https://news.samsung.com/global/interview-ushering-in-a-new-era-of-connectivity-with-the-galaxy-s10-5g"
+      }
+    ]
+  },
+  {
+    "id": "s-voice",
+    "name": "S Voice",
+    "category": "Service",
+    "status": "discontinued",
+    "startDate": "2012-05",
+    "endDate": "2020-06-01",
+    "description": "S Voice answered spoken requests on Galaxy phones and watches, starting with the Galaxy S III. When Samsung switched off the service, some watches could upgrade to Bixby.",
+    "sources": [
+      {
+        "label": "Samsung shutdown notice",
+        "url": "https://www.samsung.com/uk/support/newsalert/118891/"
+      },
+      {
+        "label": "Galaxy S III announcement",
+        "url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-iii-the-smartphone-designed-for-humans-and-inspired-by-nature"
+      }
+    ]
+  },
+  {
+    "id": "samsung-cloud-gallery-sync-and-drive",
+    "name": "Samsung Cloud Gallery Sync and Drive",
+    "category": "Feature",
+    "status": "discontinued",
+    "startDate": "2016",
+    "endDate": "2021-11-30",
+    "description": "Samsung Cloud closed its photo sync and personal file storage, with final download deadlines of September 30 or November 30, 2021 depending on the region. Device backups continued.",
+    "sources": [
+      {
+        "label": "Samsung notice reproduced on Samsung Members",
+        "url": "https://r2.community.samsung.com/t5/Tech-Talk/End-of-Gallery-Sync-Drive-Premium-Storage-Subscription-Features/td-p/9846882"
+      },
+      {
+        "label": "SamMobile",
+        "url": "https://www.sammobile.com/news/samsung-cloud-data-deleted-after-today/"
+      },
+      {
+        "label": "Samsung Newsroom",
+        "url": "https://news.samsung.com/global/samsung-cloud-a-better-way-to-upgrade-back-up-and-sync-your-galaxy-device"
+      }
+    ]
+  },
+  {
+    "id": "samsung-dex-for-pc",
+    "name": "Samsung DeX for PC",
+    "category": "Feature",
+    "status": "discontinued",
+    "startDate": "2019",
+    "endDate": "2025",
+    "description": "DeX for PC let Galaxy owners use their phone apps on a computer. One UI 7 removed the PC connection, while phones on One UI 6 could still use it and DeX on external monitors continued.",
+    "sources": [
+      {
+        "label": "Samsung support notice",
+        "url": "https://www.samsung.com/nz/support/apps-services/changes-to-the-way-you-connect-samsung-galaxy-mobile-devices-to-pcs/"
+      },
+      {
+        "label": "One UI 7 rollout",
+        "url": "https://news.samsung.com/us/samsung-one-ui-7-announces-official-rollout-starting-from-april-7-2025/"
+      },
+      {
+        "label": "Galaxy Note10 announcement",
+        "url": "https://news.samsung.com/global/introducing-galaxy-note10-designed-to-bring-passions-to-life-with-next-level-power"
+      },
+      {
+        "label": "Samsung DeX compatibility",
+        "url": "https://www.samsung.com/us/support/answer/ANS10001972/"
+      }
+    ]
+  },
+  {
+    "id": "samsung-gallery-onedrive-sync",
+    "name": "Samsung Gallery sync with OneDrive",
+    "category": "Feature",
+    "status": "discontinued",
+    "startDate": "2019",
+    "endDate": "2026-09-30",
+    "description": "Galaxy owners could sync photos and videos directly from Samsung Gallery to OneDrive. When that link ended, existing photos stayed in OneDrive, where users could also enable camera backup.",
+    "sources": [
+      {
+        "label": "Microsoft support notice",
+        "url": "https://support.microsoft.com/en-us/onedrive/changes-to-samsung-gallery-sync-and-onedrive"
+      },
+      {
+        "label": "Microsoft launch announcement",
+        "url": "https://techcommunity.microsoft.com/blog/onedriveblog/samsung-galaxy-note10-delivers-onedrive-gallery-experience/1053319/"
+      }
+    ]
+  },
+  {
+    "id": "samsung-link",
+    "name": "Samsung Link",
+    "category": "Service",
+    "status": "discontinued",
+    "startDate": "2012",
+    "endDate": "2016-11-01",
+    "description": "Originally called AllShare Play, Samsung Link let people access photos, videos and music across their devices. Files stayed on the original devices and cloud accounts after the service closed.",
+    "sources": [
+      {
+        "label": "Samsung Support",
+        "url": "https://www.samsung.com/za/support/mobile-devices/is-samsung-link-not-going-to-be-supported-anymore/"
+      },
+      {
+        "label": "Samsung Newsroom",
+        "url": "https://news.samsung.com/global/ces-2012-samsung-pushes-boundaries-at-ces-2012"
+      }
+    ]
+  },
+  {
+    "id": "samsung-messages-us",
+    "name": "Samsung Messages (US)",
+    "category": "App",
+    "status": "discontinued",
+    "endDate": "2026-07-06",
+    "description": "Samsung ended ordinary texting in its US messaging app on Galaxy devices running Android 12 or later and directed users to Google Messages. Devices on Android 11 or earlier kept the app.",
+    "sources": [
+      {
+        "label": "Samsung US end-of-service notice",
+        "url": "https://www.samsung.com/us/apps/samsung-messages/"
+      },
+      {
+        "label": "Samsung support FAQ",
+        "url": "https://www.samsung.com/us/support/troubleshoot/TSG10010566/"
+      }
+    ]
+  },
+  {
+    "id": "samsung-news",
+    "name": "Samsung News",
+    "category": "App",
+    "status": "announced",
+    "startDate": "2023-04",
+    "endDate": "2026-12-21",
+    "description": "Samsung’s news app delivers headlines to Galaxy phones and tablets through a feed and home screen widget. Samsung announced a worldwide shutdown for December 21 at 00:00 UTC.",
+    "sources": [
+      {
+        "label": "Samsung’s statement to GIGA",
+        "url": "https://www.giga.de/tech/am-21-dezember-ist-schluss-samsung-schaltet-eigene-app-auf-galaxy-handys-ab--01M63XDQ157HY1EX9E1G1HF1BH"
+      },
+      {
+        "label": "In-app notice via SamMobile",
+        "url": "https://www.sammobile.com/news/samsung-news-shut-down-galaxy-phones-tablets/"
+      },
+      {
+        "label": "Samsung launch announcement",
+        "url": "https://news.samsung.com/us/samsung-launches-everyday-news-app-galaxy-device-users/"
+      }
+    ]
+  },
+  {
+    "id": "samsung-sound",
+    "name": "Samsung Sound",
+    "category": "App",
+    "status": "announced",
+    "startDate": "2026-02",
+    "endDate": "2027-03-31",
+    "description": "Samsung Sound sets up and controls compatible speakers and soundbars. Samsung says the standalone app will remain available through March 31, 2027, and directs owners to register their devices in SmartThings.",
+    "sources": [
+      {
+        "label": "Samsung UK support notice",
+        "url": "https://www.samsung.com/uk/support/newsalert/129976/"
+      },
+      {
+        "label": "In-app notice via SamMobile",
+        "url": "https://www.sammobile.com/news/samsung-sound-app-shutting-down-speakers/"
+      },
+      {
+        "label": "Launch coverage by SamMobile",
+        "url": "https://www.sammobile.com/news/new-samsung-sound-app-is-here-is-it-better-than-smartthings/"
+      }
+    ]
+  },
+  {
+    "id": "smart-view-app",
+    "name": "Samsung Smart View app",
+    "category": "App",
+    "status": "discontinued",
+    "startDate": "2011",
+    "endDate": "2020-10-05",
+    "description": "The standalone Smart View app let people control a Samsung TV and play videos from their phone. Support ended in 2020, though installed copies could keep working and Galaxy phones kept their built-in screen mirroring.",
+    "sources": [
+      {
+        "label": "Samsung Community moderator",
+        "url": "https://eu.community.samsung.com/t5/tv/smart-view-to-be-unsupported-oct-2020/m-p/1656656"
+      },
+      {
+        "label": "Samsung Newsroom Korea",
+        "url": "https://news.samsung.com/kr/%EB%82%B4-%EC%86%90%EC%95%88%EC%9D%98-%EC%8A%A4%EB%A7%88%ED%8A%B8tv-%EC%82%BC%EC%84%B1-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%B7%B0-%EC%95%B1"
+      },
+      {
+        "label": "Samsung Support",
+        "url": "https://www.samsung.com/ae/support/mobile-devices/troubleshooting-a-problem-when-using-smart-view/"
+      }
+    ]
+  },
+  {
+    "id": "smartthings-classic",
+    "name": "SmartThings Classic",
+    "category": "App",
+    "status": "discontinued",
+    "endDate": "2020-12",
+    "description": "The original SmartThings app organized home devices into rooms and routines. After moving users to the newer app, SmartThings began switching off the servers behind Classic in December 2020.",
+    "sources": [
+      {
+        "label": "SmartThings shutdown timeline",
+        "url": "https://community.smartthings.com/t/update-on-smartthings-classic-shutdown/213037"
+      },
+      {
+        "label": "SmartThings migration notice",
+        "url": "https://community.smartthings.com/t/updates-to-the-smartthings-platform/200513"
+      }
+    ]
+  },
+  {
+    "id": "smartthings-hub-2013",
+    "name": "SmartThings Hub (2013)",
+    "category": "Hardware",
+    "status": "discontinued",
+    "startDate": "2013",
+    "endDate": "2021-06-30",
+    "description": "The first SmartThings hub let people control connected devices around the house. When it stopped working, owners had to pair their Zigbee and Z-Wave devices with a new hub.",
+    "sources": [
+      {
+        "label": "SmartThings hub retirement FAQ",
+        "url": "https://support.smartthings.com/hc/en-us/articles/360055814272-SmartThings-Hub-2013-and-SmartThings-Link-for-NVIDIA-SHIELD-FAQs"
+      }
+    ]
+  },
+  {
+    "id": "smartthings-link-for-nvidia-shield",
+    "name": "SmartThings Link for NVIDIA SHIELD",
+    "category": "Hardware",
+    "status": "discontinued",
+    "startDate": "2017",
+    "endDate": "2021-06-30",
+    "description": "This USB adapter turned a SHIELD TV into a SmartThings hub. After SmartThings retired it, owners needed another hub to control devices paired through the adapter.",
+    "sources": [
+      {
+        "label": "SmartThings hub retirement FAQ",
+        "url": "https://support.smartthings.com/hc/en-us/articles/360055814272-SmartThings-Hub-2013-and-SmartThings-Link-for-NVIDIA-SHIELD-FAQs"
+      },
+      {
+        "label": "PCWorld launch coverage",
+        "url": "https://www.pcworld.com/article/407531/the-smartthings-link-for-nvidia-shield-tv-is-just-10-right-now.html"
+      }
+    ]
+  },
+  {
+    "id": "tizen-watch-galaxy-store",
+    "name": "Galaxy Store for Tizen watches",
+    "category": "Platform",
+    "status": "discontinued",
+    "endDate": "2025",
+    "description": "Samsung stopped distributing apps and watch faces for Tizen watches through the Galaxy Store. Owners could keep using content already installed on their watches.",
+    "sources": [
+      {
+        "label": "Galaxy Store Seller Portal",
+        "url": "https://seller.samsungapps.com/notice/getNoticeDetail.as?csNoticeID=0000009034"
+      },
+      {
+        "label": "Samsung Developer",
+        "url": "https://developer.samsung.com/galaxy-watch-tizen/notice.html"
+      }
+    ]
+  },
+  {
+    "id": "watchon",
+    "name": "Samsung WatchON",
+    "category": "Service",
+    "status": "discontinued",
+    "startDate": "2013",
+    "endDate": "2014-12-31",
+    "description": "WatchON helped Galaxy owners find live TV shows and on-demand video. Samsung closed the service outside the United States and South Korea on December 31, 2014.",
+    "sources": [
+      {
+        "label": "Samsung statement via Android Authority",
+        "url": "https://www.androidauthority.com/samsung-watchon-shutdown-572168/"
+      },
+      {
+        "label": "Samsung Newsroom",
+        "url": "https://news.samsung.com/global/samsung-previews-samsung-hub-and-new-content-services-on-galaxy-s-4-unpacked"
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+name: Catalogue
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node validate.mjs
+  publish:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    concurrency: publish-catalogue
+    steps:
+      - name: Rebuild the archive on Cloudflare Pages
+        env:
+          DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$DEPLOY_HOOK" ]; then
+            echo "::warning::CLOUDFLARE_DEPLOY_HOOK is not configured. No deployment was requested."
+            exit 0
+          fi
+          curl --silent --show-error --fail --retry 2 --request POST --output /dev/null "$DEPLOY_HOOK"
