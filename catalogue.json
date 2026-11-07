@@ -279,7 +279,7 @@
     "category": "App",
     "status": "discontinued",
     "endDate": "2026-07-06",
-    "description": "Samsung ended ordinary texting in its US messaging app on Galaxy devices running Android 12 or later and directed users to Google Messages. Devices on Android 11 or earlier kept the app.",
+    "description": "On US Galaxy phones running Android 12 or later, Samsung Messages stopped sending texts except to emergency numbers and designated emergency contacts. Devices on Android 11 or earlier kept the service.",
     "sources": [
       {
         "label": "Samsung US end-of-service notice",
